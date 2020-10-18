@@ -19,6 +19,10 @@ kubernetes ，docker 见repositories的study-note
 
 Mysql，redis
 
+# 组装一台属于自己的电脑
+
+（笔记，组装过程踩过的坑）
+
 # Linux 相关
 
 # shell
